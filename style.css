@@ -1,0 +1,61 @@
+body{
+    background:black;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+h1{
+    color:white;
+    margin-top:100px;
+}
+
+.container{
+    width:90%;
+    max-width:450px;
+    background: white;
+    height: 400px;
+    margin:50px auto;
+}
+
+.row{
+    display: flex;
+    text-align: center;
+}
+
+.col-1{
+    height: 400px;
+    width: 250px;
+    background: white;
+    color:black;
+}
+
+#date{
+    font-size:100px;
+    font-weight: 500;
+    margin-bottom:0px;
+}
+
+#day{
+    margin-top: 10px;
+    font-size:25px;
+    font-weight: 200;
+}
+
+.col-2{
+    height: 400px;
+    width: 200px;
+    font-size:25px;
+    background:orangered;
+    color:white;
+}
+
+#month{
+    margin:160px auto 5px;
+}
+
+#year{
+    margin-top:10px;
+}
+
+
+
